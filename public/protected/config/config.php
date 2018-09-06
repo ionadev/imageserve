@@ -23,5 +23,5 @@ define('TWITTER_CARDS', true);
 define('IMAGESERVE_DIR', '');
 define('TWITTER_HANDLE', '@aerouk_');
 
-define('APP_NAME', 'application name');
-define('PASSKEY', 'password goes here');
+define('APP_NAME', 'Iona Dev Image Hoster');
+define('PASSKEY', 'ionadev');
